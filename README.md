@@ -1,109 +1,126 @@
-
-
 <h1 align="center">Hi 👋, I'm Archi Snehi</h1>
 <h3 align="center">Backend Developer | FastAPI | Cloud | Machine Learning</h3>
 
 <p align="center">
-<a href="mailto:archisnehi97@gmail.com"><img src="https://img.shields.io/badge/Email-archisnehi97@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://github.com/archi2305"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github"></a>
-<a href="https://www.linkedin.com/in/archi-snehi-39327b253/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:archisnehi97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+<a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* Backend developer building **API-driven applications**
-* Experienced with **Python, FastAPI, PostgreSQL, Docker**
-* Built an **AI resume screening platform using NLP**
-* Developed a **cloud-backed file storage system using AWS S3**
-* Interested in **backend systems, ML, and scalable architectures**
+Backend developer focused on building **API-driven applications** using **Python, FastAPI, PostgreSQL, and Docker**.
+
+* Built an **AI Resume Screening Platform using NLP**
+* Developed **Cloud-Based Secure File Storage using AWS S3**
+* Interested in **backend systems, machine learning, and scalable architectures**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Technologies & Tools
 
-### Languages
+<table align="center">
+<tr>
+<td align="center" width="120">
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br> <b>Python</b>
 
-### Backend
+</td>
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-</p>
+<td align="center" width="120">
 
-### Cloud
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/><br> <b>PostgreSQL</b>
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws"/>
-</p>
+</td>
 
-### Data / Machine Learning
+<td align="center" width="120">
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60"/><br> <b>FastAPI</b>
 
-### Tools
+</td>
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-</p>
+<td align="center" width="120">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/><br> <b>Docker</b>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=aws" width="60"/><br> <b>AWS</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br> <b>Git</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br> <b>GitHub</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br> <b>VS Code</b>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/><br> <b>Pandas</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60"/><br> <b>Scikit-Learn</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br> <b>React</b>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-### HireSkill — AI Resume Screening Platform
+### 🔹 HireSkill — AI Resume Screening Platform
 
-* NLP-based system extracting candidate skills using **Python & Scikit-learn**
-* Built backend with **FastAPI REST APIs**
-* Stored evaluation data in **PostgreSQL**
-* Containerized using **Docker**
+* Built an NLP-based system to extract candidate skills from resumes
+* Implemented text preprocessing and feature extraction using **Python & Scikit-learn**
+* Developed **FastAPI REST APIs** for resume analysis workflows
+* Designed **PostgreSQL database** to store candidate evaluation data
+* Containerized the application using **Docker**
 
-### Cloud-Based Secure File Storage System
+---
 
-* Authenticated **file upload & sharing system**
-* Implemented **JWT authentication**
+### 🔹 Cloud-Based Secure File Storage System
+
+* Backend service for **authenticated file upload, download, and sharing**
+* Implemented **JWT authentication and role-based access control**
 * Integrated **AWS S3 object storage**
 * Deployed backend on **AWS EC2**
 
 ---
 
-## 💼 Experience
-
-**Python Intern — HashedBit Innovations**
-May 2024 – July 2024
-
-* Built backend modules for **DressHub e-commerce platform**
-* Designed **REST APIs for product catalog and inventory**
-* Integrated **React frontend with backend services**
-* Collaborated using **Git/GitHub**
-
----
-
-## 🎓 Education
-
-**MCA**
-Jaypee Institute of Information Technology (2025–2027)
-
-**BCA**
-Greater Noida Institute of Technology
-CGPA: 7.94
-
----
-
 ## 📫 Connect With Me
 
-Email: [archisnehi97@gmail.com](mailto:archisnehi97@gmail.com)
-LinkedIn: https://linkedin.com/in/yourlinkedin
-GitHub: https://github.com/yourusername
+📧 Email: [archisnehi97@gmail.com](mailto:archisnehi97@gmail.com)
+💼 LinkedIn: https://linkedin.com/in/yourlinkedin
+💻 GitHub: https://github.com/yourusername
