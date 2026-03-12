@@ -5,8 +5,8 @@
 
 <p align="center">
 <a href="mailto:archisnehi97@gmail.com"><img src="https://img.shields.io/badge/Email-archisnehi97@gmail.com-red?style=flat&logo=gmail"></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github"></a>
-<a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+<a href="https://github.com/archi2305"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github"></a>
+<a href="https://www.linkedin.com/in/archi-snehi-39327b253/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
 </p>
 
 ---
