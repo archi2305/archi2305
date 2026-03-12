@@ -1,126 +1,24 @@
-<h1 align="center">Hi 👋, I'm Archi Snehi</h1>
-<h3 align="center">Backend Developer | FastAPI | Cloud | Machine Learning</h3>
+# 💫 About Me:
+Backend developer focused on building API-driven applications using Python, FastAPI, PostgreSQL, and Docker.<br><br>Built an AI Resume Screening Platform using NLP<br><br>Developed Cloud-Based Secure File Storage using AWS S3<br><br>Interested in backend systems, machine learning, and scalable architectures
 
-<p align="center">
-<a href="mailto:archisnehi97@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
-<a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/archi-snehi-39327b253/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:archisnehi97@gmail.com) 
 
-## 👨‍💻 About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=archi2305&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=archi2305&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=archi2305&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Backend developer focused on building **API-driven applications** using **Python, FastAPI, PostgreSQL, and Docker**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=archi2305&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-* Built an **AI Resume Screening Platform using NLP**
-* Developed **Cloud-Based Secure File Storage using AWS S3**
-* Interested in **backend systems, machine learning, and scalable architectures**
-
----
-
-# 🛠 Technologies & Tools
-
-<table align="center">
-<tr>
-<td align="center" width="120">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br> <b>Python</b>
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/><br> <b>PostgreSQL</b>
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60"/><br> <b>FastAPI</b>
-
-</td>
-
-<td align="center" width="120">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/><br> <b>Docker</b>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=aws" width="60"/><br> <b>AWS</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br> <b>Git</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br> <b>GitHub</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br> <b>VS Code</b>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/><br> <b>Pandas</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60"/><br> <b>Scikit-Learn</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br> <b>React</b>
-
-</td>
-
-</tr>
-</table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=archi2305&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=archi2305&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🚀 Projects
-
-### 🔹 HireSkill — AI Resume Screening Platform
-
-* Built an NLP-based system to extract candidate skills from resumes
-* Implemented text preprocessing and feature extraction using **Python & Scikit-learn**
-* Developed **FastAPI REST APIs** for resume analysis workflows
-* Designed **PostgreSQL database** to store candidate evaluation data
-* Containerized the application using **Docker**
-
----
-
-### 🔹 Cloud-Based Secure File Storage System
-
-* Backend service for **authenticated file upload, download, and sharing**
-* Implemented **JWT authentication and role-based access control**
-* Integrated **AWS S3 object storage**
-* Deployed backend on **AWS EC2**
-
----
-
-## 📫 Connect With Me
-
-📧 Email: [archisnehi97@gmail.com](mailto:archisnehi97@gmail.com)
-💼 LinkedIn: https://linkedin.com/in/yourlinkedin
-💻 GitHub: https://github.com/yourusername
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
